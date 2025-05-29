@@ -2,7 +2,7 @@
     "name": "com.ppool.chatSDK",
     "displayName": "ppool_chatSDK",
     "version": "0.0.1",
-    "unity": "2021.2",
+    "unity": "2021.3",
     "description": "Chat SDK Test",
     "samples": [
         {
